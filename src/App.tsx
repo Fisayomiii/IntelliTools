@@ -1,20 +1,11 @@
-import Card from './components/Cards/Card';
-import Chip from './components/Chip/Chip';
-import Footer from './components/Footer/Footer';
-import Header from './components/Header/Header';
-import Hero from './components/Hero/Hero';
+import Mainpage from "./pages/Main/Mainpage";
 
 function App() {
-
   return (
     <>
-      <Header />
-      <Hero />
-      <Chip/>
-      <Card/>
-      <Footer/>
+      <Mainpage/>
     </>
   )
 }
 
-export default App
+export default App;

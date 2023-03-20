@@ -5,7 +5,7 @@ function Chip() {
         <>
             
             <div className="relative rounded-xl overflow-auto">
-                <div className="max-w-md mx-auto min-w-0 dark:bg-slate-800 dark:highlight-white/5">
+                <div className="max-w-md mx-auto min-w-0 dark:highlight-white/5">
                     <div className="overflow-x-auto flex">
                         <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
                             <div className="flex flex-col items-center justify-center gap-3">

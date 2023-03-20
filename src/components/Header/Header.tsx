@@ -1,4 +1,5 @@
 import Logo from "../../assets/Images/text.png";
+import DarkModeToggle from "../Darkmode";
 
 function Header() {
   return (
@@ -12,26 +13,23 @@ function Header() {
           </div>
           <div className="flex items-center justify-center">
 
-
-
-            <button className="text-gray-900 font-medium rounded-full" title="Dark mode">
-              <div className="block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
-                <i className='bx bxs-moon bx-sm' ></i>
-              </div>
+            <button className="text-gray-900 font-medium rounded-full">
+              <DarkModeToggle />
             </button>
 
             <button className="text-gray-900 font-medium py-2 px-4 rounded-full" title="Star on Github 🙏">
               <a href="https://github.com/Fisayomiii" target="_blank" rel="noreferrer" className="block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
-                <i className='bx bxl-twitter bx-sm'></i>
+                <i className="bx bxl-twitter bx-sm"></i>
               </a>
             </button>
 
             <button className="text-gray-900 font-medium rounded-full" title="Give me a follow">
               <a href="https://twitter.com/999tweets_her" target="_blank" rel="noreferrer" className="block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
-                <i className='bx bxl-github bx-sm'></i>
+                <i className="bx bxl-github bx-sm"></i>
               </a>
             </button>
           </div>
+
         </nav>
       </header>
 
