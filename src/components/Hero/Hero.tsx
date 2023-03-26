@@ -8,7 +8,7 @@ function Hero() {
                         </h1>
                         <p className="mt-6 font-semibold text-xl leading-8 text-gray-600">Revolutionize Your Workflows with the Best <span className="font-bold bg-gradient-to-r from-pink-500 to-yellow-500 to-blue-500 text-transparent bg-clip-text"> Ai Tools</span> 🤖 at Your Fingertips</p>
                         <div className="mt-5 flex items-center justify-center gap-x-6">
-                            <a className="rounded-md bg-gradient-to-r from-pink-500 to-yellow-500 to-blue-500 text-transparent px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm " href="/create-new-chatbot">Get Started!</a>
+                            <a className="rounded-md bg-gradient-to-r from-pink-500 to-yellow-500 to-blue-500 text-transparent px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm " href="#">Get Started!</a>
                         </div>
                     </div>
                 </div>
