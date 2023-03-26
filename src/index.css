@@ -3,94 +3,39 @@
 @tailwind utilities;
 
 * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    /* border: 1px solid #ff0000; */
-    font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  /* border: 1px solid #ff0000; */
+  font-family: "Poppins", sans-serif;
 }
 
 .gradient-underline {
-    display: inline-block;
-    overflow: visible;
-    margin-right: -3rem;
-    margin-bottom: -4rem;
-    margin-left: -3rem;
-    padding-right: 3rem;
-    padding-bottom: 4rem;
-    padding-left: 3rem;
-    background-image: url("https://assets-global.website-files.com/60e5f2de011b86acebc30db7/630a52793591b5ddf26ea695_Jasper%20Art%20Underline.svg");
-    background-position: 50% 50%;
-    background-size: 80%;
-    background-repeat: no-repeat;
+  display: inline-block;
+  overflow: visible;
+  margin-right: -3rem;
+  margin-bottom: -4rem;
+  margin-left: -3rem;
+  padding-right: 3rem;
+  padding-bottom: 4rem;
+  padding-left: 3rem;
+  background-image: url("https://assets-global.website-files.com/60e5f2de011b86acebc30db7/630a52793591b5ddf26ea695_Jasper%20Art%20Underline.svg");
+  background-position: 50% 50%;
+  background-size: 80%;
+  background-repeat: no-repeat;
 }
 
-.bg-gray-900 {
-    background-color: #1F2937;
-  }
-  
-  .backdrop-filter {
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px); /* Safari */
-  }
-  
-  .text-white {
-    color: #FFFFFF;
-  }
-  
-  .hover\:text-gray-300:hover {
-    color: #D1D5DB;
-  }
-  
-  .py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
-  
-  .px-4 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-  
-  .text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-  
-  .font-bold {
-    font-weight: 700;
-  }
-  
-  .flex {
-    display: flex;
-  }
-  
-  .justify-between {
-    justify-content: space-between;
-  }
-  
-  .items-center {
-    align-items: center;
-  }
-  
-  .rounded-md {
-    border-radius: 0.375rem;
-  }
-  
-  .text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
-  }
-  
-  .font-medium {
-    font-weight: 500;
-  }
-  
-  a {
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: none;
-  }
-  
+.web ::-webkit-scrollbar{
+  display: none;
+}
+
+/*=============== SCROLL BAR ===============*/
+::-webkit-scrollbar {
+  width: 5px;
+  background: #6a6a6a;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #a3a3a3;
+  border-radius: 5px;
+}

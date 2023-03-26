@@ -3,65 +3,36 @@
 function Chip() {
     return (
         <>
-            
-            <div className="relative rounded-xl overflow-auto">
-                <div className="max-w-md mx-auto min-w-0 dark:highlight-white/5">
+
+            <div className="relative rounded-xl overflow-auto web">
+                <div className="max-w-lg mx-auto min-w-2 dark:highlight-white/5">
                     <div className="overflow-x-auto flex">
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
+                        <div className="flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-slate-50">
+                            <div className=" text-base font-semibold leading-7 shadow-sm ">
+                                Hello!</div>
                         </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
-                        </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
-                        </div>
-                        <div className="flex-none py-6 px-3 first:pl-6 last:pr-6">
-                            <div className="flex flex-col items-center justify-center gap-3">
-                                <img className="w-12 h-12 rounded-full" src="https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=facearea&amp;facepad=4&amp;w=256&amp;h=256&amp;q=80" />
-                                <strong className="text-slate-900 text-xs font-medium dark:text-slate-200">Andrew</strong>
-                            </div>
-                        </div>
-                        
+
                     </div>
                 </div>
             </div>
