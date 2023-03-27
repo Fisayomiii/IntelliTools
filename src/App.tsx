@@ -6,10 +6,12 @@ function App() {
   return (
     <>
       <Router>
-        <Header />
-        <Routes>
-          <Route path="/" element={<Hero/>} />
-        </Routes>
+        <div className="transition duration-300 ease-in-out dark:bg-zinc-900">
+          <Header />
+          <Routes>
+            <Route path="/" element={<Hero />} />
+          </Routes>
+        </div>
       </Router>
     </>
   )
