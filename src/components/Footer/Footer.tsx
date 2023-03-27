@@ -2,7 +2,7 @@ function Footer() {
     return (
         <>
             <footer >
-                <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
+                <div className="mx-auto max-w-screen-sm lg:max-w-screen-lg px-4 py-16 sm:px-6 lg:px-8">
                     <div className="mt-8 border-t border-gray-400 pt-8">
                         <div className="sm:flex gap-96 justify-center items-center">
                             <p className="text-sm text-gray-500 flex justify-start gap-6 lg:col-span-5 justify-center items-center lg:justify-end dark:text-white">
@@ -28,7 +28,7 @@ function Footer() {
                                         </li>
 
                                         <li>
-                                            <a href="/" rel="noreferrer" target="_blank"className="text-gray-700 transition hover:opacity-75 dark:text-white" >
+                                            <a href="https://github.com/Fisayomiii/Intellitools" rel="noreferrer" target="_blank"className="text-gray-700 transition hover:opacity-75 dark:text-white" >
                                                 <span className="sr-only">GitHub</span>
                                                 <i className="bx bxl-github bx-sm" ></i>
                                             </a>

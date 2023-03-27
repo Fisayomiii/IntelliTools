@@ -1,0 +1,67 @@
+{
+    "tools": [
+        {
+            "name": "OpenAI GPT-3",
+            "category": "Writing",
+            "description": "GPT-3 is an advanced natural language processing AI tool that can generate high-quality written content, including articles, emails, and social media posts.",
+            "image": "https://i.imgur.com/GIkNATh.jpg",
+            "link": "https://openai.com/"
+          },
+          {
+            "name": "Google Dialogflow",
+            "category": "Chatbots",
+            "description": "Dialogflow is a platform for building conversational agents, chatbots, and voice apps powered by AI.",
+            "image": "https://i.imgur.com/wuj60vp.jpg",
+            "link": "https://cloud.google.com/dialogflow/"
+          },
+          {
+            "name": "IBM Watson Studio",
+            "category": "Data",
+            "description": "Watson Studio is an integrated platform designed to make it easy to develop, train, and deploy AI models and applications.",
+            "image": "https://i.imgur.com/BaG0jJg.jpg",
+            "link": "https://www.ibm.com/cloud/watson-studio"
+          },
+          {
+            "name": "Canva",
+            "category": "Marketing",
+            "description": "Canva is an AI-powered graphic design tool that allows users to create professional-looking designs for social media, marketing, and more.",
+            "image": "https://i.imgur.com/87E5nx5.jpg",
+            "link": "https://www.canva.com/"
+          },
+          {
+            "name": "Grammarly",
+            "category": "Writing",
+            "description": "Grammarly is an AI-powered writing assistant that helps users check for grammar, spelling, and punctuation errors.",
+            "image": "https://i.imgur.com/pfTcR92.jpg",
+            "link": "https://www.grammarly.com/"
+          },
+          {
+            "name": "Hootsuite",
+            "category": "Social Media",
+            "description": "Hootsuite is a social media management tool that allows users to schedule and manage posts across multiple social media platforms.",
+            "image": "https://i.imgur.com/vyQUaTY.jpg",
+            "link": "https://hootsuite.com/"
+          },
+          {
+            "name": "Luminar AI",
+            "category": "Photography",
+            "description": "Luminar AI is a photo editing tool that uses AI technology to help users enhance their photos and create stunning visual effects.",
+            "image": "https://i.imgur.com/dpYGT4H.jpg",
+            "link": "https://skylum.com/luminar-ai"
+          },
+          {
+            "name": "Zapier",
+            "category": "Productivity",
+            "description": "Zapier is an automation tool that allows users to connect and automate workflows between different apps and services.",
+            "image": "https://i.imgur.com/3LdA2wF.jpg",
+            "link": "https://zapier.com/"
+          },
+          {
+            "name": "TensorFlow",
+            "category": "Coding",
+            "description": "TensorFlow is an open-source machine learning framework that allows users to develop and train AI models for a wide range of applications.",
+            "image": "https://i.imgur.com/CvATgjz.jpg",
+            "link": "https://www.tensorflow.org/"
+          }
+    ]
+}
