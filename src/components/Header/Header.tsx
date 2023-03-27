@@ -1,5 +1,5 @@
 import Logo from "../../assets/Images/text.png";
-import DarkModeToggle from "../Darkmode";
+import DarkModeToggle from "../../darkmode/Darkmode";
 
 function Header() {
   return (
@@ -34,6 +34,6 @@ function Header() {
       </header>
     </>
   )
-}
+};
 
 export default Header;

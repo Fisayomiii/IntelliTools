@@ -1,3 +1,6 @@
+import Chip from "../Chip/Chip"
+import Footer from "../Footer/Footer"
+
 function Hero() {
     return (
         <>
@@ -13,8 +16,11 @@ function Hero() {
                     </div>
                 </div>
             </div>
+
+            <Chip/>
+            <Footer/>
         </>
     )
-}
+};
 
-export default Hero
+export default Hero;

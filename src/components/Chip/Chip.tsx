@@ -1,3 +1,5 @@
+import Card from "../Cards/Card";
+
 function Chip() {
     return (
         <>
@@ -9,32 +11,14 @@ function Chip() {
                             <div className=" text-base font-semibold leading-7 shadow-sm ">
                                 Hello!</div>
                         </div>
-                        <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800">
-                            <div className=" text-base font-semibold leading-7 shadow-sm ">
-                                Hello!</div>
-                        </div>
-                        <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800">
-                            <div className=" text-base font-semibold leading-7 shadow-sm ">
-                                Hello!</div>
-                        </div>
-                        <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800">
-                            <div className=" text-base font-semibold leading-7 shadow-sm ">
-                                Hello!</div>
-                        </div>
-                        <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800">
-                            <div className=" text-base font-semibold leading-7 shadow-sm ">
-                                Hello!</div>
-                        </div>
-                        <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-3 px-8 rounded-full text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800">
-                            <div className=" text-base font-semibold leading-7 shadow-sm ">
-                                Hello!</div>
-                        </div>
-
+                        
                     </div>
                 </div>
             </div>
+            <Card/>
+
         </>
     )
-}
+};
 
-export default Chip
+export default Chip;
