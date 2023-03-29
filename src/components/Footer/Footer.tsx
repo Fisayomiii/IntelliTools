@@ -28,7 +28,7 @@ function Footer() {
                                         </li>
 
                                         <li>
-                                            <a href="https://github.com/Fisayomiii/Intellitools" rel="noreferrer" target="_blank"className="text-gray-700 transition hover:opacity-75 dark:text-white" >
+                                            <a href="https://github.com/Fisayomiii/Intellitools" rel="noreferrer" target="_blank" className="text-gray-700 transition hover:opacity-75 dark:text-white" >
                                                 <span className="sr-only">GitHub</span>
                                                 <i className="bx bxl-github bx-sm" ></i>
                                             </a>

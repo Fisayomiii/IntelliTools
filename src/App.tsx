@@ -5,14 +5,15 @@ import Hero from './components/Hero/Hero';
 function App() {
   return (
     <>
-      <Router>
-        <div className="transition duration-300 ease-in-out dark:bg-zinc-900">
+      <div className="transition duration-300 ease-in-out dark:bg-zinc-900">
+        <Router>
           <Header />
           <Routes>
             <Route path="/" element={<Hero />} />
           </Routes>
-        </div>
-      </Router>
+        </Router>
+      </div>
+
     </>
   )
 }
