@@ -22,7 +22,21 @@ function Chip() {
         <>
             <div className="relative rounded-xl overflow-auto web mt-20 sm:mt-1">
                 <div className="max-w-xl w-full mx-auto min-w-0 dark:highlight-white/5">
-                    <div className="overflow-x-auto flex">
+                    <motion.div initial="hidden" animate="visible" variants={{
+                        hidden: {
+                            // scale: .8,
+                            opacity: 0,
+                            x:5
+                        },
+                        visible: {
+                            // scale: .9,
+                            x:8,
+                            opacity: 1,
+                            transition: {
+                                delay: 1.5
+                            }
+                        }
+                    }} className="overflow-x-auto flex">
                         {categoryData.map((tab: string) => {
                             return <div className="cursor-pointer flex justify-center items-center m-1 font-medium py-0 px-8 text-center rounded-lg text-slate-900 border border-slate-900 dark:text-slate-50 dark:border-zinc-500 hover:bg-zinc-100 hover:dark:bg-zinc-800" key={tab} onClick={() => handleCategory(tab)}>
                                 <div className=" text-base font-semibold leading-7 shadow-sm ">
@@ -30,7 +44,7 @@ function Chip() {
                                 </div>
                             </div>
                         })}
-                    </div>
+                    </motion.div>
                 </div>
             </div>
 

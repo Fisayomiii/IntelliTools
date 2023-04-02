@@ -1,9 +1,15 @@
+import { motion } from "framer-motion";
+
 function Footer() {
     return (
         <>
             <footer >
                 <div className="mx-auto max-w-screen-sm lg:max-w-screen-lg px-4 py-16 sm:px-6 lg:px-8">
-                    <div className="mt-8 border-t border-gray-400 pt-8">
+                    <motion.div animate={{ opacity: 1 }}
+                        initial={{ opacity: 0, y: 90 }}
+                        exit={{ opacity: 0 }}
+                        whileInView={{ y: 5 }}
+                        viewport={{ once: true }} className="mt-8 border-t border-gray-400 pt-8">
                         <div className="sm:flex gap-96 justify-center items-center">
                             <p className="text-sm text-gray-500 flex justify-start gap-6 lg:col-span-5 justify-center items-center lg:justify-end dark:text-white">
                                 &copy; 2023. Intellitools. All rights reserved.
@@ -39,7 +45,7 @@ function Footer() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </motion.div>
                 </div>
             </footer>
         </>
