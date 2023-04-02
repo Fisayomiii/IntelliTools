@@ -1,9 +1,6 @@
 <div align="center">
   <img alt="Logo" src="https://res.cloudinary.com/fisayomithesedays/image/upload/v1680446258/IntelliTools/text_lgfcsz.png" width="200" />
 </div>
-<h1 align="center">
-  Intellitools
-</h1>
 <p align="center">
   The must-have resource for any AI enthusiast 🤖, featuring a massive collection of Ai tools and resources to power your next project! ✨
 </p>
