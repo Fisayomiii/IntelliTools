@@ -1,9 +1,10 @@
 import Card from "../Cards/Card";
-import { useState } from 'react';
+import React, { useState } from "react";
 import AitoolsData from '../../data/Tools.json';
 import { motion, AnimatePresence } from "framer-motion";
 
-function Chip() {
+const Chip: React.FC = () => {
+
     const categoryData: string[] = ["All", "Generative Art", "AI Detectors", "Chatbots", "Music", "Writing", "Finance", "Fun", "Food"];
     const [category, setCategory] = useState<string>("All");
     const { tools } = AitoolsData;
@@ -26,11 +27,11 @@ function Chip() {
                         hidden: {
                             // scale: .8,
                             opacity: 0,
-                            x:5
+                            x: 5
                         },
                         visible: {
                             // scale: .9,
-                            x:8,
+                            x: 8,
                             opacity: 1,
                             transition: {
                                 delay: 1.5
@@ -58,7 +59,7 @@ function Chip() {
                 </motion.div>
             </div>
         </>
-    )
+    );
 };
 
 export default Chip;
