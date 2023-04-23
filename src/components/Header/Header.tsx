@@ -54,7 +54,7 @@ function Header() {
                   delay: 1.3
                 }
               }
-            }} className="animate__animated animate__fadeInUp animate__delay-1s text-gray-900 font-medium py-2 px-4 rounded-full" title="Star on Github 🙏">
+            }} className="transition-all text-gray-900 font-medium py-2 px-4 rounded-full" title="Star on Github 🙏">
               <a href="https://github.com/Fisayomiii/Intellitools" target="_blank" rel="noreferrer" className="block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
                 <i className="bx bxl-github bx-sm"></i>
               </a>
@@ -72,7 +72,7 @@ function Header() {
                   delay: 1.6
                 }
               }
-            }} className="animate__animated animate__fadeInUp animate__delay-2s text-gray-900 font-medium rounded-full" title="Give me a follow">
+            }} className="transition-all text-gray-900 font-medium rounded-full" title="Give me a follow">
               <a href="https://twitter.com/999tweets_her" target="_blank" rel="noreferrer" className="block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300">
                 <i className="bx bxl-twitter bx-sm"></i>
               </a>

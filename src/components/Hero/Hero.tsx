@@ -35,7 +35,7 @@ function Hero() {
                                     delay: .7
                                 }
                             }
-                        }} className="mt-6 font-semibold text-lg sm:text-xl leading-8 text-gray-600">Revolutionize Your Workflows with the Best <span className="font-bold bg-gradient-to-r from-pink-500 to-yellow-500 to-blue-500 text-transparent bg-clip-text"> Ai Tools</span> 🤖 at Your Fingertips.
+                        }} className="mt-6 font-semibold text-lg sm:text-xl leading-8 text-gray-500 dark:text-gray-400">Revolutionize Your Workflows with the Best <span className="font-bold bg-gradient-to-r from-pink-500 to-yellow-500 to-blue-500 text-transparent bg-clip-text"> Ai Tools</span> 🤖 at Your Fingertips.
                         </motion.p>
                     </div>
                 </div>

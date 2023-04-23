@@ -1,0 +1,292 @@
+{
+    "tools": [
+      {
+        "name": "Replika",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F8ec706dd-ecce-43c9-adb9-79d49a0e3281%2Freplika.png&w=1920&q=80",
+        "description": "Chatbot companion that creates a unique and personal connection with the user.",
+        "category": "Chatbots",
+        "type": "Free",
+        "website": "https://replika.com/"
+      },
+      {
+        "name": "Midjourney",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F018719ee-3bff-400a-b669-54e89aa050c9%2Fmidjourney.png&w=1920&q=80",
+        "description": "Create Stunning AI-generated images from text Prompts.",
+        "category": "Generative Art",
+        "type": "Freemium",
+        "website": "https://www.midjourney.com/"
+      },
+      {
+        "name": "Text GPT",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F2b02f342-94f4-44ae-b59a-ad98a6d1bd84%2Ftextgpt.png&w=1920&q=80",
+        "description": "OpenAI’s GPT and Dall-E 2 through text messaging.",
+        "category": "Chatbots",
+        "type": "Freemium",
+        "website": "https://textgpt.net/"
+      },
+      {
+        "name": "GPTKit",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Fb33a52ce-3053-4097-b09d-6cf0cb33e85e%2Fgptkit.png&w=1920&q=80",
+        "description": "Detect ChatGPT generated text.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://gptkit.ai/"
+      },
+      {
+        "name": "CoolAiid",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F86404153-fbfe-446d-b600-29d9b2c8ea58%2Fcoolaiid.png&w=1920&q=80",
+        "description": "Interior design ideas using AI, with over 20 styles to choose from and the ability to get inspiration for any room in the house.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://coolaiid.com/"
+      },
+      {
+        "name": "Vocal Remover",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F91fbebc0-eb5e-460f-92b7-65fe010d7179%2Fvocalremover.png&w=1920&q=80",
+        "description": "Remove vocals from a song and create a dope karaoke version.",
+        "category": "Music",
+        "type": "Free",
+        "website": "https://vocalremover.org/"
+      },
+      {
+        "name": "AI Recipe Generator",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F9f1346d0-4fce-419b-bdc7-244db4effc38%2Frecipe.png&w=1920&q=80",
+        "description": "Fast and easy way to create custom recipes with AI.",
+        "category": "Food",
+        "type": "Free",
+        "website": "https://ai-recipes.softr.app/"
+      },
+      {
+        "name": "Uizard",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Fa4c20469-384a-44a9-ab02-94ca45291dac%2Fuizard.png&w=1920&q=80",
+        "description": "Design wireframes, prototypes, and mockups quickly and easily.",
+        "category": "Generative Art",
+        "type": "Paid",
+        "website": "https://uizard.io/"
+      },
+      {
+        "name": "CheckForAI",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F9112b724-06f0-4754-9521-50ae0e83219c%2Fcheckforai.png&w=1920&q=80",
+        "description": "Detect AI written text in essays, emails, and more.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://checkforai.com/"
+      },
+      {
+        "name": "ProfilePicture.AI",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F3fd9e9f5-b6c5-48c3-83e5-2634084a1b83%2Fprofilepicture.png&w=1920&q=80",
+        "description": "Create custom profile pictures for social media accounts in seconds.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://www.profilepicture.ai/"
+      },
+      {
+        "name": "Detect GPT",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F496fa975-8c3c-467a-8fc2-5d084ed4872f%2Fdetectgpt.png&w=1920&q=80",
+        "description": "Chrome extension that scans the content of pages as you browse the internet for AI.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://www.thomas.io/"
+      },
+      {
+        "name": "Perplexity",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Fc1696768-eaf6-4fff-888b-1323f1d0dc88%2Fperplexity.png&w=1920&q=80",
+        "description": "Conversational search engine designed to provide information through a chatbot-style with citations.",
+        "category": "Chatbots",
+        "type": "Free",
+        "website": "https://www.perplexity.ai/"
+      },
+      {
+        "name": "ImagineMe",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F51d5cb0c-9f61-4c4c-b4b1-2aaa12a3d1ee%2Fimagine.png&w=1920&q=80",
+        "description": "Create stunning AI art of yourself with one line of text.",
+        "category": "Generative Art",
+        "type": "Paid",
+        "website": "https://imagineme.ai/"
+      },
+      {
+        "name": "OpenAI Text Classifier",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F4eb97073-8467-4dd8-b5b8-88be886a7eb7%2Ftextclassifier.png&w=1920&q=80",
+        "description": "Predicts likelihood that a piece of text was generated by AI.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://platform.openai.com/ai-text-classifier"
+      },
+      {
+        "name": "GPTZero",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F96274a42-9777-4c45-998f-980fc192527b%2Fgptzero.png&w=1920&q=80",
+        "description": "Accurately detect AI plagiarism using multiple metrics.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://gptzero.me/"
+      },
+      {
+        "name": "Pandora Avatars",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Fd5277e1b-6e19-478a-b8cc-78130f206b23%2Fsocialbook.png&w=1920&q=80",
+        "description": "Create AI avatars using your own photos.",
+        "category": "Generative Art",
+        "type": "Paid",
+        "website": "https://socialbook.io/"
+      },
+      {
+        "name": "Rytr",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Ff58e4994-1b37-4f03-bd7d-cbb7c31cd7d7%2Frytr.png&w=1920&q=80",
+        "description": "Writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost.",
+        "category": "Writing",
+        "type": "Free",
+        "website": "https://rytr.me/"
+      },
+      {
+        "name": "Character.AI",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F1834f784-259a-40f3-9456-1fb2b752d7c2%2Fcharacter.png&w=1920&q=80",
+        "description": "Collaborate with a computer to seem like you are talking with another character.",
+        "category": "Chatbots",
+        "type": "Free",
+        "website": "https://beta.character.ai/"
+      },
+      {
+        "name": "AI Time Machine",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2Fc64b0276-5807-4c9b-9c65-295baf9b436d%2Fmyheritage.png&w=1920&q=80",
+        "description": "Create stunning AI avatars and travel through history.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://www.myheritage.es/ai-time-machine"
+      },
+      {
+        "name": "GPT-Minus1",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F697ced9f-aa2a-4777-8729-1d5caadd2ad7%2Fgptminus1.png&w=1920&q=80",
+        "description": "Fool GPT by randomly replacing words with synonyms in your text.",
+        "category": "AI Detectors",
+        "type": "Free",
+        "website": "https://www.gptminus1.com/"
+      },
+      {
+        "name": "Deep Anime",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F069b93e1-4535-40d0-8b3d-879746a3e73e%2Fdeepanime.png&w=1920&q=80",
+        "description": "Transform photos into anime scenes with just a tap.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://deepanime.software/#/"
+      },
+      {
+        "name": "Jasper",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F370b981f-bd04-440a-8366-48da38552cb4%2Fjasper.png&w=1920&q=80",
+        "description": "Content platform that helps businesses create high-quality content faster.",
+        "category": "Writing",
+        "type": "Free",
+        "website": "https://www.jasper.ai/"
+      },
+      {
+        "name": "Chatgpt",
+        "image": "https://supertools.therundown.ai/_next/image?url=https%3A%2F%2Fassets.super.so%2F9b1db7dc-155d-4da6-bf88-a68ad1c2af0f%2Fimages%2F23362414-588e-46ff-941b-2d74df286551%2Fchatgopt.png&w=1920&q=80",
+        "description": "Conversational search engine designed to provide information through a chatbot-style.",
+        "category": "Chatbots",
+        "type": "Free",
+        "website": "https://chat.openai.com/"
+      },
+      {
+        "name": "Copy AI",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/6db23e3f-8dcb-4538-98cc-b793b5ec0c35.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE70lEQVQ4jW2R+3MTVRTHV5yBUQf9Z/zB5zD6g4Cg/gkwOqKlBDQjOONPzoiIDAWhpcMPONBpFUFAKbVT2oS2ebZpkqbJJmn2kaS7yW42u3uz72z2dZ1NKALjme/cPXvPnPM551wEQd7c1hvP6u3dOw68tuvj3Ts/evXFgy/vOPAS8uEuZP9OZO9OZC+CvPcC8i6CfLD7lU8QZF8//a1ntV126PDIQMeP/DJQ8OiV40cuHz184WRg/NsTV08dHz95bPxUYDw4PPbN8HhwaDT45Wjgi0uBzy4GhkZPnhj/engs8OnFoUMjnx86f6SvocMjx7bLIhBC6PkHz3VEUa6U6fM//pGMFiCEtmXbluM4jud5luX4N7bjui58yvqpUOn1zuPoOSx/Ftv4vpy706z5Ic8PIu62KZKuKIYoyvkcyTKC53mmaZvdXq9nWZbdNUzLsk3TtizbdV3H8eU7rmtbjtY1kwwTbTajTHOJplGBV01T1PWebfcn+D9zXdd7Yq7fy8Dth7avfXvsPzdTWeCXaLKhgQHA21b/x4ODtTwZEz7lWJb93M3g40Ho+p14Tn+HtNJZamA1RUQ87+md+m1BCP+8uTh1Yz6b2pyfXbs5GZ6fXbt6+f7EtbmZu/GlhfXpu/F4tHjp3N3w/Ppvk+GrYw+mJkKzMykIodNnQAgl04g2K7QmIsAgWC0lW42eo7rbMHqLS0ZRbJNeSRSn/4pHQrnEUmFhLj0TSrMtkM8TNMVsrOWzOTRTokIRNJkhSjhruNB0oe336GNy7SqlCIhgoJh4n+iEyc4yJWfbOqmYwPP8Pbj91UdC6yM/3z79w9TEw/g9UJ/myBBfnKfTaW6VkTERQhlCpX+CnqNYnm5Dw/YTaU2sKhwiGGWi87AqxchOjAAxTEhW+BTOr1MAE7U2MOQVsfmgQ92olu906HvC1j2+cZup32pRM1wLU1RcVnBJIWWdkg3G6HGGDUxH7rmGDZWe3TZAHwAekn0ACRKkmMKFLC5kK+2NTa5AdLAyqKFyI9rauk9iNwl8Ei1P5EtTBBkDoKSoqKShklaUtLKk4lK3KpkNrdsyLGA6Ss/rOXAAWPCrd+IESOBCug/IVVoF1qhdu3774PvBfXuC+98J7nn9WCAw9oChhuOR4Eriu9TKV4no72Q13zHSvJwR1ByvFwVjE3TJjtmQbc6wDNvzAThYIKU4CeKkmMSFzACAtdG6jM9FImfOXj97ZuKnM5OnTv964dbsXJseRfNXiqUxdPMyWvqnwaZ5JcHJK5y62tLSnJZt62i7i4m9GrBl00UEA8P9F/bbJ/z99AH8Bs6XsHa5LtWbGstILdRmIw61qFJzTDXUbD5ixXBDXqb0OKPFOCnGqfGWGmeVRFNNMuoaq2+0DJTrCrr9H4B8BlDA+RIplHAOq7EUJjVTFp0xGxmTzXbFVSDEWyDJqIt1bQ7Xlxk11pKWGTnSVCINOUrJUUpdofVM0+TVwQTgEdlJkiD5+AH4HCGgWLtSaNAFqt2U5YbZWW/iCbKcoaopsoYBidZtHJjFthkqd8OkEWUH1ZUlSo3WlOWakqSMiXw1vNVABAPHwSIJEpV2oswmy2yqwq6l8PpsyphOuH/H3dVNq0gZqzhIVBurLTLVItY5Psdo67Qew4yZrDG7oT+qg3BNCBNiiBRDOAgTIF4zJnP08hb7Lws1K45Er6yYAAAAAElFTkSuQmCC",
+        "description": "Content generator that helps businesses and professionals create high-quality and engaging content.",
+        "category": "Writing",
+        "type": "Free",
+        "website": "https://www.copy.ai/"
+      },
+      {
+        "name": "Tome",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/17621306-c3b8-4f48-af61-355afb37aee0.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAACKUlEQVQ4jdWTz4tSURTH7+979fnefeIzf4CZjT5FMGbAEJep2xnnOVgmguJbiWv/sqAWQQwYTRTCTIUQtLOhqCFDaFPMTOgLiVBLW0SfxVnce/h+zzn3XAAACPJQ/Ho8cjUC/hjOucvlwhgrikIpZYwRQjjndIZhGMlkUtO0H9le4g1eCRqG8bMEnAGWgDEmhCCEKKUIIYzxPCKEVFUNBAJCCPAv8fl8fr9fCKHMCAQCUkrGmK7rUkqPxyOl9Hq94XCYc44QWkPamUw+n+/1evV6vd1uW5bVbDZbrVahUKhWq7VarVwu27bd6XS63a5t25lMBgCwtg1jDCGkaVo6nY5Go5FIxDTNVCoVi8Wy2WwoFHJK8fv9UkqwMYyxUqnUaDRKxWks3ipWrAPbtk3TnLe7CUIIZ9aqqjLGKKWYYYABIggRRChRVVXXdU3TpJSU0rUNEEJkBp6hMGXLndhSEnElEXVfo4Q6m+okbN4HAADB6dNl+PYkdfFh58tk++J5ZKjB6SeC4C90f8GNlZzI3xS5nMjf4DsYYvCfAQEkkBBIOOGMCLyI36s4W68oCoQQLQEsqwBCQsh02VY4OborMjjnt2t3andru+Xd/Yq1Z+1PY3mv2WqWDypzhVUGq68Mw3g5fPXseDA6HY3HZx/P3k0mnwfHg+Gb1/2jo/kYlhpggoUQC22cQ5/Pd/j48GH/0ej07eXlt/Gn9+fnX09enPSfPrn34P5Cg++122kaEg4eBgAAAABJRU5ErkJggg==",
+        "description": "Helps you create compelling stories with any type of content.",
+        "category": "Writing",
+        "type": "Free",
+        "website": "https://beta.tome.app/"
+      },
+      {
+        "name": "GPT-3 Playground",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/70bc2d53-ff52-4eb4-a949-2b010b846f64.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAADU0lEQVQ4jZ2UXWgcVRTHz4MPxbe+aPVFKDYi1BT1oViJDRXTFE3QPlS0D4UiQiOFYhVLKaUP9cU8aKAUbBTBoo1IDS1pmkgzruvWXdPs7GabzX5lZrcTtya7OzuT+bofc++MzA6Wsk2bxD+Hgcs9c37nnHvvAUVRTOxgShzHMQyLEGpZNsFY11codfl98tcS51x3LNO2OPdvTE5kUinOfUAIUTcQpZQQyhijlK4vYLs838OUUNdljKmNhq7rjHNocwoDq6oqCEIikUgmxUTiL0GITE1Nqap6z2H9ageEsm17QZJCk+VyuVzWNN11ue/5vuetbhsCaJqeSmUzs7m0OC/OzJWKd1zCHculhDOEmO0wBzPbZU5ohCPyMEY7gPHAL5Zcgt4ftvde7toz1vvq+N7Oqy8/+8vjm0e+H8qJxwbGO/oir30c6zsTf/+LxAeD00dPz54+7tpGK4C3FoAFLb76ex46P4Idx2DbKXhyEOBbgAsAQ4OfJiNv7D4Pm0Zgx+jW7rHO/de7Dkz0dUcHXqBmfX2A1hlen87C/iNw8Cj0fQK7PoOOz+GJcwBfXzw7J7z95gV46setHSMvbr+8c/do91ujPV2TH75CTXUDgCtxEfrfhQOHYe8ReGkAnjsOz5wCOHHuzK1rPa8PwdPDm7cNb3n+my07hzftGX5s36Vd7+CVZiv+WoBwv2k6v83nhbmCkJaj4mI0XolEpaggL1bMmjhTvjbxd/SPaixejd3652bmbixbT+Y5Y22hVgeEQsiu1xStUa8qFaVcNI1Wdv9LDz604KvI9Z+/+7NQlHL5giRVmqrGuU9psDddmZeXFFvT1UaDIOQxzhl7WPqr3qKgSdHJxYM941JB0TSNUhchpOuGg5Dv+4eufHlRnGhUlwvFkqo2bdumlG6gglDIspYqFV3XNU0nGDPG7s27miLrzTohlGAczq4Hb84jAV5Q7IoUz186VMrNzWaytVoNIWRZtmkY3Pd/7X9vZuirvKKUiiVFqRqG+ejptHoFjmnWFhZwqyf/zVfWStZXb0v23eBNBWvGCMbrAnDOg5Ixdhzk+25kXD7cPzabzqXSyUwm0xp2GkaYevTGyZszP6WzhayYFCVJzuel5eWgxPD30O4/lX8BNgSi6EExD7QAAAAASUVORK5CYII=",
+        "description": "Makes it easy to test prompts and get familiar with how the GPT-3 API works.",
+        "category": "Writing",
+        "type": "Free",
+        "website": "https://platform.openai.com/"
+      },
+      {
+        "name": "StockGPT",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/357d5ba3-2573-4c11-aa15-51134b00bec8.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAACRUlEQVQ4jc2SzYvTQBjGx7sn9SSrCF78k0TEo/+BeNmDe/Cq4lpQRPYgdYu1h14Wt7UEsmu3NCRtaj5K2nRrtW2a2mSaZicfk2lk07UsbOMSVPDldwjvTOZ5n5cHTG3vnwL+CwFoOQZES6DlQMv5awLQcj2fhFHNIwiZu25gI/9PBRaDYzLP5vJ37t57+jy1vr7x8PGjjZdPnr190+71jxA+11CswBHCnk+QG8zDsCE0X6RebWc+pNPv07ncp+qBfHhoWrOAzD1MPExshJMJQMv52usxDCNJMstygiDq4/FgMGyrakftSKIkS02mylSiKpcPNG0UpxHjYObUavX9/T2e51mWrVQqhagymUw+n8/lcoVCgaIomqZLpRJN00NNQ26wclGrBQzTnkKoadoUwvHx7ANZlhVFabVaLUVRVbXb7UBomKY5hVDXdeS6CVc0RUNNY1lWkqRarbbzcYeiqELxeOpisUhRVDZL7e6W63Wu0WhwHGdCmGxFE2OGMV5EMwxD7PsOcjzXI/gkr54b4F/ZDcMwICQuSLEOut+/VXmOE3lWqHMiv0BQZLHd/KJIUkcWVJlvinxTrEuNiWEkcGBaDgnmtx/cB5cAuHEBXAMnrAFw6zK4eRFcjb7XouZ1AK6AzXevwzA0IErgoNPrcaJQl8QlnCjssdXPHHO6uej3R3rCmNrezMaOGyxAbuD5ZGLMNtNbqe2tZX9J3CNnBfwlNsJnMS1kWs7Ko9P/rhCAljMaw+Hox7louvH7C31tMp5YS4GfDHC4+OQcF94AAAAASUVORK5CYII=",
+        "description": "Tesla stock search tool that uses Tesla's quarterly earnings call transcripts dating back to Q2 2011.",
+        "category": "Finance",
+        "type": "Free",
+        "website": "https://www.askstockgpt.com/"
+      },
+      {
+        "name": "Rose",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/ea9a5de4-98a4-4395-9213-5aa9db6542a3.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE2ElEQVQ4jZWUW2wUVRjHNwpoaXcu55w5c85c9uzMzszOznZ72V62u9vLUmh6oxeErS0UKARaFkqlVCsYS7AEpQoIEQ3QB5UY3whC4oMvxkRMiD5piNGQGIxKfPDFhBcvYc20hFJMMCZf5uEk5/8733++7x9gVird1J5IZkoF+f9WCYeJZivMwWpEZVEos0g0idVIdX1TOpvLj11uWn8sELJSqWxbrKK+hMOPlSNBUeGAwgGVA0pQVEoFsprHiBpYMaEcJpotYk0zYlBmXnVDZU3DQOFK8/rjgVWl4ImnhBUl4DHqZQLlgMojxqMwj8yFL+OgGhSVpzlc8lCtKkMlHF5RAlaUwEAg8OTKlYH/9CEoUA7pAjZF4gISh0oCkLhIXJFYHNI5oPz7CgcoB2hQVMpEugQoEykHFB4pPNIWyjekzH+75qtTD2tJEs5Qo5GEM1ivhUpcwCYPtAXfFB6oAlAFpAcF+jDsPiAoEB5pQDYQdSTVlXQPUVvEjEc6j8IiiWItqUVawk5HxO0JOx2a3Yr1WkA9rHpAMmTZotRBUOd5DCETgBoUyBKAA5RHuqRGdbPadDPRxJpoYo3hpglLIOpAYkMlTsIZw+204xujiQE73m+V96iRRs1MMSvF9EqH1dbG28e3XRzuPkpkC0lLDB/AIwVSS1JiIStdXtNdndpQUdcXr+ow3YzM4kD1kFqpGI0Rt8dJ5N2KQa92i1Xex+zWWFVXzM01pfI9rWObO58/vPuDzy8Uz+29QbCFJGPx9wRKBSLiEKROb3507+TxkbHZfc+dfPno/NDoibW9k5n0NsPMQrWchDPMaY/E+t3koJPIG26XFe/MtO1Y339w2+Cx4Y6Du3qOTA6cfXP/pz/PF/e0nhAABZD5AA5QKBuQuqfPffhnsXj7zr0f7xS/vvnbqUtfTs/deGHHtbryjaLiYi2pGs3Mabe8Xruin9lrm3r2bT5wZuvuueG+Q8O58fENr7645fzre659NvvX1f13kBQCkhEUiA8AJAKoN3Xo5E+//n3z+9+/vXX31u0/XjpywY6tNdwGkbqiHIXEldRKHKpTI02606KYDe3bD2daNufqBzY2jm5t2T+Rn5sefOvkno+vz977aqYoywZaAsgGVr2+fGFmdv7FmYtHj186dfbywUPnhkYOr+vams31M6uKQ0yUbZG4SK+SWZJ5zQ1dOz2vLVvZW9j+xvTY/MSmuZmR996euv7N6eI7I18gKXQfUCoQAeuQOuncMzsLRwoTJyamzoxPnS4ceG1w+1RlfZvtpiTFCgKV80eWATUmyFYonq1pe7Y63Z9N53ftPjW66dho3yvTw+ffn/mueLU4lJ0WoQogWwTIHFDgQhO6VRdNrIvXdJfXdNnxFsVMIupwQF3tDxxZXChRZmUCVd16N9vFnPpU80Cqsrulondy14Ur83d/+Kg4t/MTKttQMh9MkR9k9xm6p5lJ5tSHnZRiVkmqK2LGgWWbyUu634ocsmrXxNIdTkVTrDwX0aoKY+ffPfvLUMeMjE1JtpftwQOG75U/UTakFpQNAetl4jJ1v12o8JJ/zkt6NNuZbB80vYxMXShqMrZidi6kVAtAW7bJj8TyohUL0qSUx48UBykHVQ4qfpwJBGlRoNi8QP0gApqwEH9BgTwA/AOg7SmPMZg9pQAAAABJRU5ErkJggg==",
+        "description": "Cloud data platform designed to help users find, engage, visualize and share data.",
+        "category": "Finance",
+        "type": "Free",
+        "website": "https://rose.ai/"
+      },
+      {
+        "name": "Genius Sheets",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/82817bc9-59f1-42fc-b1ca-e59364b69658.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD+UlEQVQ4ja1UW28bRRg1ah9QG6kCpckDT6gPFYI31F/AA+9cfgJVK4qAPiIBUqVGoBSlpQkNEo5TIkREgnKx09I4cdaxU6IYN3Zw2rC+bZu9eD27Y+/Fs5fZ2UG7buJQiZfC0afVaGfmO9+ZOfNF6AFgWwEKgBACAAghh/8ppTrCOsKtFgRAsW0bAIAQOroAY19r6zyUovmF8c3ZXblGKfWpTymNHC5qQKkhNxRFkSQJY3x0P7I9hDBUFACA6zpQhaZhUEoJIcQLwrY9qLY4mR9Lz46sTReFcnc2IPADqpDr4NtFsPmfOp4PPQWaptm2fTjuiSABTVMoFXJLxT9Wi1tMLpO6n0qt32OYJSYZX/9tMXNnIbu4kFlYzM7OrU3PpfOPpHBfeESE+N1ciUTi0kcfv/PueyPXb0xN/XTx4ocsy1JKXdellD4sLj/h2EqZLRa3S8Udrspxda7M1ti9GsvW63W+zHL1Os+y1VKxtJbjegow9jEOalQU5faPU9e+GUmlGI7jYrGYJHULCWZzmyuahlRoCqIMWxpCFqW000FsuWJ2kGU7CFliuN6nNM9KPQLHJa4bpIjHE598enlubj4anRgf//7q0NDVoa/On7+QzWYppRuZu3/VK3xD5CWelxqaFlyyoqjJ5RQIrNcGAG4/2MGuSwjJs2KPwLK9LgHHPY5GJ26Ojo19d4th0hOx2Mj1G59/8eVyMhkQrN/dFwRZVcWmvM8LXYJOB/F8AwAIAFQUCNUW8UK5e0KPACGMse9TKsvNapXjeZHjnlSrtUqNE6WGbhhAUTDGm9kVtlYpP64JQJRhU+90KKWGZlbKdZ4XC4WdYnG3XK4RQjAmmyW+R9BB2Alk+VbHUkLobc00TBVCwzBDr3qU0q3sCkLIcQNn+AcO0TRjayuPXU8Sm5Iki2JwMoSQjcJ+j0BHGNlBivkScynx9WfJmxcWhh4Ie8TBvCDIstz12HL819XUer64e291bTmVzmxsFHYK6Ux6cnJyjWHm5+YT8fidRGJ3d2d7O7e4+mfvoR0SbHEPR5mZH36PjzIzdVVwLEduyrDV6tr0l9it18+8+uZrb7x8/NRg3+nBE4MDfYP9JwdPHR84eWzgxWOnX4j095145ezZcy/1n7n27UzYP3CPwMGh5n+H73muqTu6gU3LNS2kI0uzjHYQetvS2lYLIqjaimoCFVlhxU+PyLAwcrzwNXgOxi7xcNBfyDPdgoRdx6e+dzAIgxwGfRrBHRHieWEQQiLI8RyXYOJ7oYb/pf/QI4g4OMhOSODUZ/rdc6BbX+FRbmx6ePj2leT9pYgXpiaEdBDSNE03/hM0TXMs5+fE5PuX337rg3PDsSt/A+stsRm1Rro0AAAAAElFTkSuQmCC",
+        "description": "Analyze data from any of your organizations data sources using plain text.",
+        "category": "Finance",
+        "type": "Free",
+        "website": "https://www.geniussheets.com/"
+      },
+      {
+        "name": "Finalle.ai",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/158b9cf3-d725-43ae-9f1f-add6d3b6cbba.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAE+0lEQVQ4jW2U2YscRRzHO7rZnenuqq6uu7v6mr6me6a3J3Pt7szekVwmGkMM2cSViILB48EIYiDeIiYaAkpEfPTVF31UxCfBf0dBQc2Dysx6IOTLl3qsT31/VfXVcnl21J8OxwMhJSaYM8r+9n/ic4n/ibP7SQiRpq00TRmlSRz7vq95KGvLbuH0trOVklchKiK7CO3cR4mLIgE9BhwMuW0SqCNTR4ZuGQYCkACLQptbtkTYRUQh6lnUt4gXdSZcZZbtYOHb1NECI0+M5aCx/PTg4V1/t62Pu3A1NwepUcdm6RgJW1L2YY6bipNM0FzQnLNc18WSQRpQ6pavo9DACaBtg7YNkrf6J01eGHbUtLwGlFpidnMw6MLV0hhXcNKzpjWczBigHzTbnpH5KJem7+Is9nuStQVvM9EG0G1ajmkHJo6JWoaya4kucmrk1IC0oSghLyBNAQ60FNQlGFZwMkAbfbQ5wNsdfeWRwYX3X7lz89U7b7703otPvXzj2lu33r19/eUb587uX9x75uKlq+fOX7n2yhuvv337408+f/fmpy9ce1slG7Y7wmpMvDFyh0hWQHQgzbQUHOnAlRpO+2hjgLYHaLtnrY/Z9k56cis/uVkeq4NJFa0sp+PEqwK3DIMqSgZ+fCTvTvtrp06cuZLXx7qj0yya0mCdhuskmNreKnZHSNaAF7MEc8CkP0uwM/dGBdYyvZeCumCjwhmmovJY3lJVFFR+UHFZClVTd9lLpkSNoDOw3BUabvJ4i8dbLNqk4brtrSJ3CERXS0BdzEa01rNmIfp4s2etd+FqAYYpqD0j82AurRQtSWa3HNlmIreIT1XM/A6SFVYjFkxn+8Y7PNnlya6Id1i0SYIpViNLVlrL7GRmvwTjLlyr4KRsDDpgtQTjzDzSMjvKTBRITu2cf/zM/tnTe4+e2Xvs3OXp6n4ZPJsH56DsYDWm4WQO2KXxUZk8NMPE2zTcwGoVOT3NB3lidjPzSAGGJRiOirMdPEmNXsusfCOXeiTN6Pvvfvjt13s//fjzLz/f++PP37+8++ubwz8vp181WYzcNRKs83hbJUeL4vh9AI4ZB2YemmXLrFJQ7Rx7PudTv5n7MHOtkBsuh65LAyVjKULBfdeNJU8pLgkvbJk78VBGQ+SNi/LEkzsXaLwzH9EWCSdYjZGsNdn0HCNSZuoZWWDkajEOzbZ1iH34/p1vvv06Sdth1MLYtm07CMMwjDDGhGDCMKGEMfbORzf3ruxZtmLJLo9m98yirX8v2RJdjTYEb7iiGUgjdIzIMWPHjNAhcfzoiUtP7B/Uy8GqlPI87+8mmosx6nmeFILIhITrJDx4prPdsRohp4a80NAStpcYbQjWcP41XGCDdrY5aQVxniSplJJSGsep7weUUs4dJkIiQs7dW9de2j9zGmCXeCtYjecezT6aU0NRAppqYNGCi8hastEiRotkbgweQEoFeeYI4UZxFIYRpdTz/DhOZuUq3BmDCca4ktIVHPPAkvWBkaws0Z1XRaZbvtZcMPUFYCxAsGCBRQTmME3TXn/1+ldffOH5QZykhOB5guQgwQGDcsUYf+2Dd87vXzABm52XFzPTNiCpSWLTDhBvafpho3HYaDyoL/7jxmFT07QXrj732d27Qsg4SelcUdRK0uyg9pkIGPc4d6vecprFCAvDDgGOAI4MOzTtQLeUbjmTjeN/AZGx7ATwfGeGAAAAAElFTkSuQmCC",
+        "description": "Automagically analyze real-time financial intelligence.",
+        "category": "Finance",
+        "type": "Free",
+        "website": "https://finalle.ai/"
+      },
+      {
+        "name": "MapsGPT",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/7b2ac92a-bfd4-4141-bf01-311326e383f6.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEO0lEQVQ4jYWS708adxjAvy/2Ty1dsqXZ3jR7sabby70yXVNakyV94xq1sdZfazVu7aoCCiJIBU8Q3cmBUDzuwFqB48pxKBwoIAKnB4jQk/O45cB1W6LuySdPnuee55vP/QJT94FKAV52AP3PwD0EVPeBWiFnlQJMP5Cz6h7wDAPTI6D8CbzqAJP3wMxD4P4VrPTII5XiYn/6AZjtlFvTI4A9B5qHYEYBdJ0A6APmuYBZ32IuYJoLmIwEZCIWLeTiahRC6EX3LuSOQ+8OELLsJo+cHwqwl55XQ31bexacgbZSS1tJCGOgUMaSKloOOSvLLRc5S56zHHJLLLcMlJRHGdlQUqhcUJ6JyMaUXKPaGLqQwBaTKJRETfG3nWPdtzrufHnn6y++vQE+A9/cvhku+YmyzPYRjhUwvOCNnviTdX+G9x/wct5vZaAkncqwc4JwTJHIBIG8Jhyvgs4/goiKdOoiiC4C62mnetvy4y93v7pz8/bd727c+vwHxfdI3OZJO7Ccq40nt+7OutCca6vopjh3rOSOld5GS2665AGThMO0i9uThD0ZbAO3QJJBLEf5i1EsR6HZUKiyyzTSBBfbYDbbBApEG6IYJthwuybZcKJM7p+G06fheGUzWnKD34P2CJuRJEkURem/kTvIpZKpQj5/0Telc55rChWxUWqKNbm/IpqtUeFjKsKty4IPbPpSwebW1hoMUxR11jir1+uVSnmP9u/T3mwMT0c93HGxXudrtZogCJcKDmpM6NgFfgsg5BVPIEmSIAgEQbAsK4rn1Wo1lwwU0uFCmmRZ9qR6KggCz/NXCVIVxpd3gvFrBbVazYfjhUKhXq/X6sJhms4kwtlEsFLm5NuvVq95RYkS48oiYDxgv0bQDnkiNs7KqXKROcqQpXziXGxes98W7HAJeM8JxgJ24ug6Qa1WOzmpcsdFJupPx0NMBMul6JPqabVavepIWxA5ilsYR0tQuPwj/ztEUeIbYp0X6vz5R/5cal75C30SkEeMcQcBo9t2ks3+r0CSpD+D6MCbqSGz2pcgr99vC0JFZpZqCQL5lCQ1+cbZmdC4DKFNscxl2Xzm+LB8eiKI539f/7TzzxG+0RBFyZ+LqSMO8JJwKiMeVWRjmkJbGVNTXg2N6qIbmqhXQ+PaGKaN+XQ7PmPivT6+qYu/08Z8MzSm2/XrdvxaGp+lvboLUD2N6mivYQcz7KAa2qOh3GAEX+6F5/oQQx9s6LPP96zM9q7OPbXPP3MYB1ymftjQDal7rJpem7bLrOy2aXuss3K2aXtts0+s2n5YP+B40w8bnsHGQefCoHNhyGHsh/UjroWRdeNUaA2MvV994bONbq4Oe6FhDzTYZgMaQpeeey1PEcNjSNVlVj62zHQtTfdYNV1L090WTY9V88Sq6YZmBp3mMXz1BbY8htvajOK2cf/K6wAyGVpThR1/Aa2HNDEgwqPhAAAAAElFTkSuQmCC",
+        "description": "Quickly find and explore interesting places near you using AI.",
+        "category": "Fun",
+        "type": "Free",
+        "website": "https://www.mapsgpt.com/"
+      },
+      {
+        "name": "Outfits AI",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/d95ef25c-23b7-4a11-8b32-1c8e25855334.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD00lEQVQ4jaWTy2sbRxjARzs7M7uzu3quZK20kl3rkTiWhOLKsRpLsZ0IW2oELm5qp7Qibu3ElpM4D4GbQ4nrtBTTUhoI6uvSXnrowZfSQ0HogaFQMBhSaCJaRMGH/AGll17qop14GwwtNPmdZr5v9/d98+0O6HQ6vxp0Op12u723t1er1ZaXV8orlxcWFufn35x/Y2Fra2t7e7vZbNbrtWaz2Wq16vV6o9Fgi93dXSYxVSadTgekUqlsNptMJoPBoNPpVBTF6/X29/eHw+FIJByJREKhkKqqDofD5/NJkkQpVVVV0zSPx+Pz+XRd1zTN7Xb7fL5AIOBwOKxWq9vt9ng8mqb5/X5AKWUhjDGlVJIkjuMwxqIoIoQIIZTSvr6+YrE4Pj6ez+dzuZyu636/X9O0np4ejDHP85RSu92OEJIkSRRFjuPoAUCWZUIIxlg2QAixhSAIkiRZrdZoNDoyMrK4uFAqlSqVytLSciaTGTx2LBFPJBIJWZYVRREEgRCiKAqlFGOsKAozKIoCWFoQBEqpIAgIIYwxIUQ0kGVZ9+vDyWQ69Xxx8rTqcvp9WubE8PDQ8VQy4XG5mIsYMDsyEASBGQDP86IoSpLEusAGPM+ziQEAzs+9/MHbleqtK19u3h4dSZVeO//Z++v31srVO2vZ0TQAACHEpmEaEEI8z7My3TTr2kyIogghZEMDAIxmsx/fefer1VJ+Ips8nprI5asb619cmnllevro0QEAACGESQghzEsIgRCyMQAzZJ6ON2ARAEA8lqieLN7lI9dCsdF48lQuf3OmNBcI5yfGQv0hAB4bzBYRQhBCs97jNISQ53kIIcdx0ICV4SBnt9piiuM5gHUoWCl1q6rN5pAleyioy7LMcdwhgylhW8AdwHIscRDiOI4DAECBBMOh0JFoPB4fHByMRqO9vUEmOvTukwaLxdItYHkC9jQA/wQ5YxuPxdoP2z/dv1+r1er1+sMHD3Z2drxeLwDd/iwWi/nKoS1b/xfo4IvZbDaHgdPpZNcVPCOsuObVCoXCwMARu91u3H5vT49HVV2qqnrcbpfLRQh+pgJOu31kKJHPnXl1bvZauXzl0tLa6vW3bqxevrh4rlh46WwhoOvmw/8PNv3R9NDmRuV0OjY7lS5kx6ZOvjAQ6M0MDc1OnVq7Xs6PDdto9wRP4e/+vgCAys2r+3/9fmNx9vXi5Nd3Nx+1vm188t65iUzr8/X9P3579MsPZ890LzOE3W6epsDq6sr+/p8XL8yOnUh98+HtRvWd7z+6dWEqW5558dONqz//+N10cdIoAP9N9DesPOL787WYwQAAAABJRU5ErkJggg==",
+        "description": "Use AI to see what you'd look like in different outfits.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://www.outfitsai.com/"
+      },
+      {
+        "name": "Lexica",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/a66d1779-7467-4831-b32f-7a033d8f0664.png?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAARCAIAAAAzPjmrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD7UlEQVQ4ja2TbWhbVRjH88UxHRvWhbz03tt773m799yb96RJ2iRNE9vdpbEvWZqYNYtptE1X7cvKWGsd2E3cbOusnXbC1sFkG4wNikMQP4xK8cuoiFuLczC/CCJMHSIqgvqhcmvRgnYVJ/w5POeB5/zOef7PMdhsTrvdbTSaTSbL32U0mq1WFiGZYXiO41m2qrKSYxh95Tj+H0tMJsvOnRWStC8WP0fVsgEhCWNZFNEGghBSSfZAKEFIICQA4NUAQ4g3rkIAUIicACiGdTUbCgAkCJDjRJblBQGyLM/zAKE15AbCECIIsQ64vxCSRBFpWrKxMdHamkqnM4lEMhKJCQLcjKHrXwEEAWpasr09l88XSqWufL7Y0pLiOPF/AWAA1kSpQ1EclNoptf/R2NXe4gcCIH0EFIwVhBRKnarqUVUXISpCehJj5U/z/wsAAGR3BOPx5mh9or5eC4Vifn9dIBAPBOLB4OOBQDwabfJ6Q/dv1KYvUAihmASdruGa2iOS0k2p0x+IqKoXY5UQG0Lyg5oM9WmTEK6VpDDGQYz1fwMRgWsGbOaBCIgICAD6ZjXGAGFCZIJlhCQACdDzWJJlVVGqq32q6sRY1hnrTsFI+qtRAK2XwabIDkXGWL+pIssu2SXzth0VnNHK8jzEkKiYOgjFVQACQrAiiFh3HkkIYgTxKp6YK3lzJQ8RERDlqQ+rPih5ReITJa8h4FHNXJVWp3RmgjVh5cVQcZ+fTvbsHqhpetiwLSl4P2oeOh4v9x081ZMfaQw9UWWp9ECIGVZ4dBs0VlhYYTtDtHQule/ibcFktnfy8hfDMzdn5m6dmrt1+tKywcwBG1L3725s09r8/uoWn+fd2b0/LQ59OpGLWZhuHP66941ccSw9OtPadizb9JSDF20sjx4zyUYTMO2wWtnR8dc//PiTlZVfFhauHRjsX3xv6czcnd9+/GHl229+/uquIRJ2WR7it1r9Jy9e68wky61qdldpi6M4/fzA3GD4SnN6fuSVxoY9U/mOlvCeUrafCDBmp6laj0OAIcp4vP4bd253arUdHbnlhQsD/QfH2rIrn5/+bun2Z9e//GB+ybA37YXQDT0Nx8+ev3JpphThvazzUNdwVMncO9nw69HOe8denSiG3z7U+87LLwyVR0OS9Eyd/elUst7tjSlMIOSfmj03PT01OND3/tW3DvQdvty7a/6ljE9Kj/ScKY9cNRQKUV/7/q3AUygVpiefzftYZgu7ODuTSnS7Jff5VHHlwvib5WhWi4/3dEweea2e0pyHxG3OWgQ0mznbHBkZO/rciYvXbyx/f/dmJlN+MtHFPOI6nC30d0xUhSZ+B/AfZktXz8jtAAAAAElFTkSuQmCC",
+        "description": "Massive database of AI-generated images and their text prompts.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://lexica.art/"
+      },
+      {
+        "name": "Interior AI",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/03656419-babc-4b0c-911d-f11f1af334c1/interior.png",
+        "description": "Upload an image of your home, and generate a new look and layout based on one of 17 preselected styles.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://interiorai.com/"
+      },
+      {
+        "name": "Latent Labs",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/6c2a98f8-080f-4cbe-b47b-a0914efd74dd/latent.png",
+        "description": "Enter a text and it will generate a 3D world that you can look around in based on your text prompt.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://www.latentlabs.art"
+      },
+      {
+        "name": "InstantArt",
+        "image": "https://super-static-assets.s3.amazonaws.com/9b1db7dc-155d-4da6-bf88-a68ad1c2af0f/images/2f15721f-cdd3-4027-b64b-e0ef635a75a1/instantart.png",
+        "description": "Unlimited image generation, over 25 fine-tuned stable diffusion models.",
+        "category": "Generative Art",
+        "type": "Free",
+        "website": "https://instantart.io/"
+      }
+    ]
+  }
